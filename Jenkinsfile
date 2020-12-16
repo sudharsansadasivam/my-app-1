@@ -1,3 +1,4 @@
+//my JenkinsFile
 node{
    stage('SCM Checkout'){
      git 'https://github.com/sudharsansadasivam/my-app-1'
